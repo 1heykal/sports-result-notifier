@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "wkz9+U/db4vvV2mj/hh8FvfiByhaoN3J+RPfFAbdpNyxRnDWboq6LoWS3HnNZcGZZFLIPYnBPs8PruihjC7xAA==",
+  "dgSpecHash": "uGFD6AsDUJ+oXRe6lBnzJrZsXSuVBonZ9jO3s/6vZvws5AU6YpqT7NXZtQ0/jZDpzL+gzqTQT3NlGs+tzjxpOA==",
   "success": true,
   "projectFilePath": "E:\\Development\\c#\\SportsResultNotifier\\SportsResultNotifier\\SportsResultNotifier.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\1heykal\\.nuget\\packages\\google.apis\\1.64.0\\google.apis.1.64.0.nupkg.sha512",
+    "C:\\Users\\1heykal\\.nuget\\packages\\google.apis.auth\\1.64.0\\google.apis.auth.1.64.0.nupkg.sha512",
+    "C:\\Users\\1heykal\\.nuget\\packages\\google.apis.core\\1.64.0\\google.apis.core.1.64.0.nupkg.sha512",
+    "C:\\Users\\1heykal\\.nuget\\packages\\google.apis.gmail.v1\\1.64.0.3231\\google.apis.gmail.v1.1.64.0.3231.nupkg.sha512",
+    "C:\\Users\\1heykal\\.nuget\\packages\\htmlagilitypack\\1.11.54\\htmlagilitypack.1.11.54.nupkg.sha512",
+    "C:\\Users\\1heykal\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\1heykal\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\1heykal\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
